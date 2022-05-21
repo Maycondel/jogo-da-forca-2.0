@@ -1,0 +1,47 @@
+main{
+    text-align: center;
+  
+}
+body{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+canvas{
+    align-items: center;
+}
+.Teclado{
+
+
+    border-collapse: separate;
+    box-sizing: border-box;
+ 
+    border-spacing: 5px;
+    border-color: grey;
+    
+}
+.Teclado ul {
+display: flex;
+list-style: none;
+justify-content: center;
+padding-top: 8px;
+}
+.Teclado ul li {
+    border: none;
+    background-color: rgba(0,0,0, .8);
+    font-size: 20px;
+    color: white;
+    padding: 12px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-left: 8px;
+ 
+
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+
